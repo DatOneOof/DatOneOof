@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayane!
 - 👀 I’m interested in Technology, Programming, Self-developpement and bodybuilding.
-- 🌱 I’m currently learning web developpement with a React.Js frontend with an express.Js backend.
+- 🌱 I’m currently learning web developpement with React.Js frontend with an express.Js backend.
 - 📫 How to reach me: email at rnossairx2@gmail.com/DM at @DatOneOof on twitter.
 
 <!---
