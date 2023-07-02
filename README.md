@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayane!
-- 👀 I’m interested in Technology, Programming, Self-developpement and bodybuilding.
+- 👀 I’m interested in Technology, Programming, Self-developpement and weightlifting.
 - 🌱 MERN stack web developer
 - 📫 How to reach me: email at rnossairx2@gmail.com/DM at @DatOneOof on twitter.
 
