@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rayane!
-- 👀 I’m interested in Technology, Programming, Running, and weightlifting.
 - 🌱 MERN stack web developer
 - 📫 How to reach me: email at rayanenossair2006@gmail.com
 
