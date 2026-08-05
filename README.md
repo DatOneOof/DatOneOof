@@ -13,6 +13,7 @@ I'm most interested in the layer above "call an LLM": agent architectures, retri
 
 **🛠️ Recently**
 - Software Engineer Intern @ **DXC Technology** — architected a document management platform with AI semantic search (pgvector), Keycloak SSO, and role-based access control
+
 **🧰 Toolbox**
 `TypeScript/JavaScript` · `Python` · `Java` · `Node.js` · `React` · `PostgreSQL` · `RAG` · `MCP` · `Docker`
  
